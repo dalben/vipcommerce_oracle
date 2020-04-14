@@ -1,2 +1,4 @@
-create or replace package body        pkg_integracao_vipcommerce_2 is
+create or replace package body dalben. pkg_vipcommerce is
+
+
 end;
